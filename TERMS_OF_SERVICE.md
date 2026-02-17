@@ -1,0 +1,168 @@
+# 📜 AyahFind Terms of Service
+
+**Effective Date:** February 17, 2026  
+**Last Updated:** February 17, 2026
+
+## 1. Acceptance of Terms
+
+By downloading, installing, or using AyahFind ("the App"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, please do not use the App.
+
+## 2. Description of Service
+
+AyahFind is a mobile application that:
+- Identifies Quran recitations from audio recordings using AI technology
+- Provides verse translations in multiple languages
+- Offers continuous audio playback of Quran recitations (Mishary Alafasy)
+- Tracks your Ramadan Journey reading progress
+- Allows you to read and listen to the complete Quran
+- Provides verse bookmarking and navigation features
+
+## 3. Free Service
+
+AyahFind is provided as a **free application** with no subscriptions or in-app purchases. All features are available to all users at no cost.
+
+## 4. Permitted Use
+
+You agree to use AyahFind only for lawful purposes and in accordance with these Terms. You agree **NOT** to:
+- Use the App in any way that violates applicable laws or regulations
+- Attempt to reverse engineer, decompile, or disassemble the App
+- Use the App to transmit harmful code or interfere with the App's functionality
+- Resell, redistribute, or commercially exploit the App without authorization
+- Use the App's content in a manner that disrespects the Quran or Islamic teachings
+- Abuse the audio identification feature for purposes other than Quran verse identification
+- Attempt to extract or harvest data from the App's databases or APIs
+
+## 5. Intellectual Property
+
+The App, including its design, features, and content (excluding Quranic text), is owned by AyahFind and protected by intellectual property laws.
+
+**Quranic Content:**
+- The Quranic text itself is the word of Allah and is not subject to copyright
+- Translations and tafsir included in the App are used with appropriate permissions or are in the public domain
+- Audio recitations are provided by EveryAyah.com and other public sources
+
+**App Code & Design:**
+- The application's source code, UI design, and original features are proprietary
+- You may not copy, modify, or create derivative works based on the App
+
+## 6. Accuracy of Content
+
+While we strive to ensure the accuracy of Quran identification and translations, we recommend:
+- Verifying important religious matters with qualified scholars
+- Cross-referencing verses with authentic Quran copies
+- Understanding that the App is a tool to assist in learning and is not a substitute for formal Islamic education
+- Being aware that AI-based identification may occasionally produce incorrect results
+
+**We make no guarantees regarding:**
+- 100% accuracy of verse identification in all audio conditions
+- Completeness of all possible translations or tafsir
+- Real-time availability of third-party services (OpenAI, ACRCloud)
+
+## 7. Privacy
+
+Your use of the App is also governed by our [Privacy Policy](PRIVACY_POLICY), which is incorporated into these Terms by reference. By using the App, you consent to the practices described in our Privacy Policy.
+
+## 8. Disclaimer of Warranties
+
+THE APP IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO:
+
+- **Availability:** We do not warrant that the App will be uninterrupted, error-free, or always available
+- **Accuracy:** We do not guarantee that verse identification will be 100% accurate in all cases
+- **Compatibility:** We do not warrant compatibility with all devices or operating system versions
+- **Third-Party Services:** We are not responsible for outages or changes to third-party services (OpenAI, ACRCloud, Quran.com, EveryAyah.com)
+- **Data Loss:** We are not responsible for loss of locally stored reading progress
+
+## 9. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, AYAHFIND AND ITS DEVELOPERS SHALL NOT BE LIABLE FOR ANY:
+
+- Indirect, incidental, special, consequential, or punitive damages
+- Loss of data, profits, or revenue
+- Interruption of service or business
+- Damages arising from use or inability to use the App
+- Reliance on information provided by the App
+- Issues arising from third-party service failures
+
+**Maximum Liability:** In jurisdictions that do not allow limitation of liability, our liability shall be limited to the amount you paid for the App (which is zero, as the App is free).
+
+## 10. User Responsibilities
+
+You are responsible for:
+- Maintaining the security of your device
+- Ensuring you have appropriate internet connectivity
+- Granting necessary permissions (microphone, notifications) for App features to work
+- Backing up any important local data (reading progress) if desired
+- Using the App respectfully and in accordance with Islamic principles
+
+## 11. Third-Party Services
+
+The App relies on third-party services for certain features:
+- **OpenAI** - Audio transcription
+- **ACRCloud** - Audio fingerprinting
+- **Quran.com** - Quran text and translations
+- **EveryAyah.com** - Audio recitations
+
+We are not responsible for:
+- Availability or reliability of these services
+- Changes to their APIs or pricing
+- Their privacy practices or data handling
+- Any damages resulting from their service interruptions
+
+## 12. Changes to Terms
+
+We reserve the right to modify these Terms at any time. We will notify users of significant changes through:
+- In-app notification
+- Email (if we have your contact information)
+- Posting on this page with updated "Last Updated" date
+
+Your continued use of the App after changes constitutes acceptance of the new Terms. If you do not agree to the modified Terms, you must stop using the App.
+
+## 13. Termination
+
+We may terminate or suspend your access to the App immediately, without prior notice or liability, for any reason, including but not limited to:
+- Breach of these Terms
+- Abuse of the service
+- Violation of intellectual property rights
+- Use of the App in a manner that harms others or the service
+
+Upon termination:
+- Your right to use the App will cease immediately
+- You must delete the App from your device
+- Locally stored data will be removed when you uninstall the App
+
+## 14. Governing Law
+
+These Terms shall be governed by and construed in accordance with applicable laws, without regard to conflict of law principles.
+
+Any disputes arising from these Terms or the App shall be resolved through:
+- Good faith negotiation
+- Mediation if necessary
+- Applicable legal jurisdiction
+
+## 15. Severability
+
+If any provision of these Terms is found to be unenforceable or invalid, that provision will be limited or eliminated to the minimum extent necessary, and the remaining provisions will remain in full force and effect.
+
+## 16. Entire Agreement
+
+These Terms, together with our Privacy Policy, constitute the entire agreement between you and AyahFind regarding the use of the App and supersede any prior agreements.
+
+## 17. No Waiver
+
+Our failure to enforce any right or provision of these Terms will not be considered a waiver of those rights.
+
+## 18. Contact Us
+
+If you have any questions about these Terms of Service, please contact us at:
+
+**Email:** leanmooshop@gmail.com  
+**App Name:** AyahFind  
+**Package Name:** com.verseapp.quransnap
+
+---
+
+**Acknowledgment:** By using AyahFind, you acknowledge that you have read, understood, and agree to be bound by these Terms of Service and our Privacy Policy.
+
+---
+
+© 2026 AyahFind. All rights reserved.
